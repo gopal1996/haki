@@ -1,0 +1,23 @@
+[
+
+    {
+        "id":1,
+        "rank":"1",
+        "name":"Dharani",
+        "backgroundColor":"yellow"
+    },
+
+    {
+        "id":2,
+        "rank":"2",
+        "name":"jeni",
+         "backgroundColor":"blue"
+    },
+
+    {
+        "id":3,
+        "rank":"3",
+        "name":"abi",
+        "backgroundColor":"green"
+    }
+]

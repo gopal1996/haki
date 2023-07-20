@@ -6,7 +6,7 @@
     "jsx": "react",
     "noEmit": true,
     "sourceMap": true,
-
+  
     // Strict Type-checking Options
     "strict": true,
     "noImplicitAny": true,
